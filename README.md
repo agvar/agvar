@@ -17,7 +17,6 @@ Hi There! I am Ajeeb George  . I am interested in finding solutions using Deep L
 - 🔭 I’m currently a Data Architect/Data Engineer in a HealthCare organization
 - 🌱 I’m currently learning C++ and Computer Vision
 - 👯 I’m looking to collaborate on folks on Deep Learning,NLP,Python
-#- 🤔 I’m looking for help with ...
 - 💬 Ask me about Python, NLP
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ajeebgeorge)
 
