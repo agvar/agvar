@@ -1,4 +1,5 @@
-Hi There! I am Ajeeb George  . I am interested in finding solutions using Deep Learning.
+Hi there ✋!
+I am Ajeeb George  . I am interested in finding solutions using Deep Learning.
 
 <div id="badges">
   <a href="www.linkedin.com/in/ajeebgeorge">
