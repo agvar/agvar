@@ -31,14 +31,16 @@ I am Ajeeb George.I am looking forward to use Machine Learning and Deep Learning
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=
-Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+## Recent Repositories ##
 
-First Header | Second Header | Third Header
------------- | ------------- | -------------
-👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+<img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
+## List of Contents ##
+
+Description   | Link
+------------ | -------------
+Notebook for Analysis using BERT+classifier for Postive ,Negetive and Neutral sentiment|  [link](https://github.com/agvar/Deep_Learning_Text/blob/5810ef018688c973ec6594b9bc29ed8def713692/deep_learning_DS/notebooks/Deep_Learning_BERT_Sentiment_Analysis_keras_v3.ipynb)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
