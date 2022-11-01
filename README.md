@@ -8,7 +8,7 @@ I am looking to use Machine Learning and Deep Learning to solve real- world prob
 - 🌱 I’m currently learning C++ and Computer Vision libraries
 - 👯 I’m looking to collaborate on Computer Vision,NLP
 - 💬 Ask me about Python, NLP ,Data Engineering, ETL, databases,SQL, Data modelling
-- 📫 Contact me:     [![Linkedin Badge](https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ajeebgeorge)
+- 📫 Contact me:     ![Linkedin Badge](https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ajeebgeorge)
 
 
 
@@ -40,8 +40,9 @@ I am looking to use Machine Learning and Deep Learning to solve real- world prob
   
   
 ## End-to-End Projects ##
-
+<a href="https://github.com/agvar/Deep_Learning_Text.git" a>
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Deep_Learning_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 ## Recent Updates ##
