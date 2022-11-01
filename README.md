@@ -3,7 +3,7 @@ I am Ajeeb George.I am looking to use Machine Learning and Deep Learning to solv
 
 ## About me ##
 
-- 🔭 I just completed the Springboard Machine Learning Bootcamp which involved 400+ hours of hands-on course material, with 1:1 industry expert mentor oversight, and    the deployment of 2 in-depth capstone projects in NLP.
+- 🔭 I just completed the Springboard Machine Learning Bootcamp which involved 400+ hours of hands-on course material, with 1:1 industry expert mentor oversight, and    the deployment of 2 in-depth NLP projects .
 - 🌱 I’m currently learning C++ and Computer Vision libraries
 - 👯 I’m looking to collaborate on Computer Vision,NLP
 - 💬 Ask me about Python, NLP ,Data Engineering, ETL, databases,SQL
