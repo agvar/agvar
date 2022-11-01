@@ -33,6 +33,7 @@ I am Ajeeb George.I am looking forward to use Machine Learning and Deep Learning
 
 ## Recent Repositories ##
 
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Deep_Learning_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 ## List of Contents ##
 
