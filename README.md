@@ -1,6 +1,8 @@
 Hi there ✋!
 I am Ajeeb George.I am looking forward to use Machine Learning and Deep Learning to solve real- world problems.
 
+## About me ##
+
 - 🔭 I’m currently a Data Architect/Data Engineer
 - 🌱 I’m currently learning C++ and Computer Vision libraries
 - 👯 I’m looking to collaborate on Computer Vision,NLP
@@ -31,11 +33,11 @@ I am Ajeeb George.I am looking forward to use Machine Learning and Deep Learning
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## Recent Repositories ##
+## End-to-End Projects ##
 
 <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Deep_Learning_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-## List of Contents ##
+## List of Recent Updates ##
 
 Description   | Link
 ------------ | -------------
@@ -44,5 +46,7 @@ BERT+ classification layer to predict Positive,and Negetive sentiment trained on
 Notebook for Analysis using doc2vec on the twitter 140 sentiment data |  [Notebook](https://github.com/agvar/Deep_Learning_Text/blob/master/deep_learning_DS/notebooks/Deep_Learning_Doc2vec_Sentiment_Analysis.ipynb)
 Notebook Colab Notebook for Hugging Face for Postive and Negetive sentiment |  [Notebook](https://github.com/agvar/Deep_Learning_Text/blob/master/deep_learning_DS/notebooks/Colab_Deep_Learning_BERT_Sentiment_Analysis.ipynb)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agvar&layout=compact&theme=cobalt&hide_border=true" />
+
 
