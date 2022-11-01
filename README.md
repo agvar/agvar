@@ -1,12 +1,11 @@
 Hi there ✋!
-I am Ajeeb George <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
-I am excited to use Machine Learning and Deep Learning to solve real- world problems.
+I am Ajeeb George.I am looking forward to use Machine Learning and Deep Learning to solve real- world problems.
 
 - 🔭 I’m currently a Data Architect/Data Engineer at a HealthCare organization
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />   Computer Vision
-- 👯 I’m looking to collaborate on folks on Deep Learning,NLP,Python
+- 🌱 I’m currently learning C++ and Computer Vision libraries
+- 👯 I’m looking to collaborate on Computer Vision,NLP
 - 💬 Ask me about Python, NLP
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ajeebgeorge)
+- 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ajeebgeorge)
 
 
 ##  Languages ##
@@ -32,11 +31,6 @@ I am excited to use Machine Learning and Deep Learning to solve real- world prob
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
- ## Databases ##
- <p>
- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  </p>
- 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=
 Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
