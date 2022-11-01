@@ -44,7 +44,7 @@ I am looking to use Machine Learning and Deep Learning to solve real- world prob
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Deep_Learning_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-## List of Recent Updates ##
+## Recent Updates ##
 
 Description   | Link
 ------------ | -------------
