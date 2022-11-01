@@ -1,5 +1,5 @@
 Hi there ✋!
-I am Ajeeb George.I am looking forward to use Machine Learning and Deep Learning to solve real- world problems.
+I am Ajeeb George.I am looking to use Machine Learning and Deep Learning to solve real- world problems.
 
 ## About me ##
 
