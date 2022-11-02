@@ -42,7 +42,7 @@ I am looking to use Machine Learning and Deep Learning to solve real- world prob
   
 ## End-to-End Projects ##
 <a href="https://github.com/agvar/Deep_Learning_Text.git" >
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Deep_Learning_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Deep_Learning_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
  </a>  
 <a href="https://github.com/agvar/Prediction_Text.git" >
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agvar&repo=Prediction_Text&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
