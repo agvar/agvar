@@ -9,7 +9,7 @@ I am looking to use Machine Learning and Deep Learning to solve real- world prob
 - 🌱 I’m currently learning C++ and Computer Vision libraries
 - 👯 I’m looking to collaborate on Computer Vision,NLP
 - 💬 Ask me about Python, NLP ,Data Engineering, ETL, databases,SQL, Data modelling
-- 📫 Contact me:     [![Linkedin Badge](https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ajeebgeorge)
+- 📫 Contact me:     <a href="www.linkedin.com/in/ajeebgeorge" ><img src="https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 
 
 
