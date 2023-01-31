@@ -2,9 +2,8 @@ Hi there ✋!
 
 ## About me ##
 
-I am Ajeeb George. I am a Data Engineer/Data Architect with over 16 years of experience.  
+I am Ajeeb George. I am a Data Engineer/Data Architect,looking to use Machine Learning and Deep Learning to solve real- world problems
 I recently completed the Springboard Machine Learning Bootcamp which involved 500+ hours of hands-on course material, with 1:1 industry expert mentor oversight, and the deployment of 2 in-depth NLP projects .
-I am looking to use Machine Learning and Deep Learning to solve real- world problems.
 
 - 🌱 I’m currently learning Kotlin and Computer Vision for android apps 
 - 👯 I’m looking to collaborate on Computer Vision,NLP
