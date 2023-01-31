@@ -6,7 +6,7 @@ I am Ajeeb George. I am a Data Engineer/Data Architect with over 16 years of exp
 I recently completed the Springboard Machine Learning Bootcamp which involved 500+ hours of hands-on course material, with 1:1 industry expert mentor oversight, and the deployment of 2 in-depth NLP projects .
 I am looking to use Machine Learning and Deep Learning to solve real- world problems.
 
-- 🌱 I’m currently learning C++ and Computer Vision libraries
+- 🌱 I’m currently learning Kotlin and Computer Vision for nadroid apps 
 - 👯 I’m looking to collaborate on Computer Vision,NLP
 - 💬 Ask me about Python, NLP ,Data Engineering, ETL, databases,SQL, Data modelling
 - 📫 Contact me:   <a href="https://linkedin.com/in/ajeebgeorge" ><img src="https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
