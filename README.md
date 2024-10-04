@@ -2,10 +2,10 @@ Hi there ✋!
 
 ## About me ##
 
-I am Ajeeb George. I am a Data Engineer/Data Architect,looking to use Machine Learning and Deep Learning to solve real- world problems
+I am Ajeeb George. I am a Data Engineer/Software Engineer,looking to use Machine Learning and Deep Learning to solve real- world problems
 
 - 🌱 I’m currently learning Kotlin for building android apps 
-- 👯 I’m looking to collaborate on Computer Vision,NLP, Android
+- 👯 I’m looking to collaborate on Computer Vision,NLP, Android apps
 - 💬 Ask me about Python, NLP ,Data Engineering, ETL, databases,SQL, Data modelling
 - 📫 Contact me:   <a href="https://linkedin.com/in/ajeebgeorge" ><img src="https://img.shields.io/badge/-ajeebgeorge-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 
